@@ -25,6 +25,6 @@ Here are some of my photographs during my life's travels
 
 If you wanna see more of my pictures, or just want to connect, my social links are below:
 
-<a href="https://www.linkedin.com/in/jetfontanilla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/linkedin.png" hspace="2" /></a>
-<a href="https://www.npmjs.com/~jetlogs" target="_blank"><img alt="npm" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/npm.png" hspace="2" /></a>
-<a href="https://www.instagram.com/agiwiz/" target="_blank"><img alt="Instagram" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/instagram.png" hspace="2" /></a>
+<a href="https://www.linkedin.com/in/jetfontanilla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/linkedin.png" hspace="3" /></a>
+<a href="https://www.instagram.com/agiwiz/" target="_blank"><img alt="Instagram" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/instagram.png" hspace="3" /></a>
+<a href="https://www.npmjs.com/~jetlogs" target="_blank"><img alt="npm" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/npm.png" hspace="3" /></a>
