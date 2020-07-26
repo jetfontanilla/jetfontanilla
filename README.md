@@ -14,13 +14,13 @@
 ---
 
 Here are some of my photographs during my life's travels
+<center>
+<img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/1.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/2.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/3.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/4.png" hspace="10" />
 
-![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/1.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/2.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/3.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/4.png)
+<img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/5.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/6.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/7.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/8.png" hspace="10" />
 
-![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/5.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/6.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/7.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/8.png)
-
-![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/9.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/10.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/11.png)![](https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/12.png)
-
+<img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/9.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/10.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/11.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/12.png" hspace="10" />
+</center>
 
 If you wanna see more of my pictures, or just want to connect, my social links are below:
 
