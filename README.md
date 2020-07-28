@@ -1,7 +1,4 @@
-<p align="center">
-  <h1><img width="100" alt="Welcome Dab" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/dabbing-cat-2.png" align="middle" hspace="20" />Welcome to my GitHub Profile</h1>
-</p>
-
+<h1 align="center"><img width="100" alt="Welcome Dab" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/dabbing-cat-2.png" align="middle" hspace="20" />Welcome to my GitHub Profile</h1>
 
 <div>
   <img alt="My Profile Pic" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/me.png" align="right" hspace="20" />
