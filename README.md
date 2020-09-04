@@ -10,12 +10,12 @@
 
 ---
 
-<p align="center">Here are some of my photographs during my life's travels</p>
+<p align="center"><strong>Here are some of my photographs during my life's travels</strong></p>
 <p align="center"><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/1.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/2.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/3.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/4.png" hspace="10" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/5.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/6.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/7.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/8.png" hspace="10" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/9.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/10.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/11.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/12.png" hspace="10" /></p>
 
-<p align="center">GitHub Achievements</p>
+<p align="center"><strong>GitHub Achievements</strong></p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jetfontanilla" /></p>
 
 <p align="right">If you wanna see more of my pictures, or just want to connect, my social links are below:</p>
