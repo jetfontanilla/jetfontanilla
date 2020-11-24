@@ -2,8 +2,8 @@
 
 <div>
   <img alt="My Profile Pic" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/me.png" align="right" hspace="20" />
-  <p>Hi, my name is Jet Fontanilla. I have been developing software for more than 15 years. I have coded in multiple languages such as JavaScript, TypeScript, Python, Rust, PHP, C, C++, and many more.</p>
-  <p>I have also lead and successfully deployed multiple projects in the following departments: Speech Recognition, Machine Learning, DevSecOps</p>
+  <p>Hi, my name is Jet Fontanilla. Software Development is my main passion. I have lead and successfully deployed multiple software projects. Some of the project highlights are: Speech Recognition, Machine Learning, DevSecOps</p>
+  <p>I have also been developing software for more than 15 years. I have coded in multiple languages such as JavaScript, TypeScript, Python, Rust, PHP, C, C++, and many more.</p>
   <p>I've worked, lived and experienced multiple cultures around the world 🇵🇭🇺🇸🇯🇵🇹🇷</p>
   <p>I ❤️ Programming 💻 Games 🎮 Ramen 🍜 Travel 🏝️ Photography 📷 and Nature 😻</p>
 </div>
