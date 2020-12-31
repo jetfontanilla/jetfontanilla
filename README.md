@@ -16,7 +16,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/9.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/10.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/11.png" hspace="10" /><img src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/gallery/12.png" hspace="10" /></p>
 
 <p align="center">&nbsp;</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jetfontanilla&show_icons=true&theme=vue-dark" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jetfontanilla&show_icons=true&theme=nord" /></p>
 
 <p align="right">If you wanna see more of my pictures, or just want to connect, my social links are below:</p>
 <p align="right"><img alt="Cat Dab" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/dabbing-cat.png" width="40" height="40" hspace="3" align="left" /><a href="https://www.linkedin.com/in/jetfontanilla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/jetfontanilla/jetfontanilla/master/images/linkedin.png" width="30" height="30" hspace="3" /></a>
